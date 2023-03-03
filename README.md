@@ -1,2 +1,2 @@
 # Share-Company-PTG-
-Guarda os dados do meu trabalho de graduação 
+Guardaros dados do meu trabalho de graduação 
